@@ -5,7 +5,7 @@ class Dutis < Formula
   desc "A cmd util to manage default app on macOS, inspired by duti"
   homepage "https://github.com/tsonglew/dutis"
   url "https://github.com/tsonglew/dutis/archive/v2.0.0.tar.gz"
-  sha256 "35be115c3236a3954251da5a28d9a2d4b82e2e81e68e48f295d7566bef02fd27"
+  sha256 "ef1edaa7e6c6b8e40e6f5aae9b85f0df2cf47f25720c434030c0c952ac7f48d7"
   license "MIT"
 
   depends_on "rust" => :build
