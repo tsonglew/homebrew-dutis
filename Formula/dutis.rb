@@ -4,7 +4,7 @@
 class Dutis < Formula
   desc "A cmd util to manage default app on macOS, inspired by duti"
   homepage "https://github.com/tsonglew/dutis"
-  url "https://github.com/tsonglew/dutis/archive/v2.0.0.tar.gz"
+  url "https://github.com/tsonglew/dutis/archive/v2.1.0.tar.gz"
   sha256 "ef1edaa7e6c6b8e40e6f5aae9b85f0df2cf47f25720c434030c0c952ac7f48d7"
   license "MIT"
 
